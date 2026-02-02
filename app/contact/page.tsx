@@ -3,7 +3,6 @@ import { Footer } from "@/components/footer";
 import { PageHeader } from "@/components/page-header";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea"; // Need to install or simulate if not present, assume sim or adjust components/ui
 import { MapPin, Phone, Mail, Clock } from "lucide-react";
 
 // Assuming Textarea component exists in shadcn/ui or can be used as standard HTML for now if missing.
